@@ -1,1 +1,1 @@
-# Frontin' Shiny
+# Breaking Shiny: Front-end version
